@@ -11,6 +11,15 @@
 
 ---
 
+## 📫 Connect with Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/neerajakshiofc/)  
+💻 [GitHub](https://github.com/neerajakshiofc)  
+📝 [Medium Blogs](https://medium.com/@neerajakshikoppisetty)  
+
+---
+
+---
+
 ## 🔧 Tech Stack  
 
 ### 🌐 Languages  
